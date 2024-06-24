@@ -1,3 +1,26 @@
+## rmf_building_map_msgs (jazzy) - 1.4.1-2
+
+The packages in the `rmf_building_map_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy rmf_building_map_msgs --override-release-repository-push-url git@github.com:revyos-ros/rmf_building_map_msgs-release` on `Mon, 24 Jun 2024 12:40:04 -0000`
+
+The `rmf_building_map_msgs` package was released.
+
+Version of package(s) in repository `rmf_building_map_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_building_map_msgs.git
+- release repository: https://github.com/revyos-ros/rmf_building_map_msgs-release.git
+- rosdistro version: `1.4.0-3`
+- old version: `1.4.1-1`
+- new version: `1.4.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rmf_building_map_msgs (jazzy) - 1.4.1-1
 
 The packages in the `rmf_building_map_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy rmf_building_map_msgs` on `Fri, 14 Jun 2024 22:55:53 -0000`
